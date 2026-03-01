@@ -45,3 +45,6 @@
 ### 12.
 
 ####root and ubuntu
+['Questions 8 and 9'](questions8and9.png)
+['Questions 13 - 16'](questions13Through16.png)
+['Questions 17 and on'](questions17andOn.png)
