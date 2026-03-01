@@ -32,7 +32,7 @@
 
 ####The system blocks me from attempting. Because Sally doesn't have access to creating users nor groups. I could give her access to add users and groups to the system like root has or add her to the Admin group.
 
-### 8. and 9. are in the screenshot below []
+### 8. and 9. are in the screenshot below
 
 ### 10.
 
